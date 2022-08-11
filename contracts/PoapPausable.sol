@@ -1,6 +1,6 @@
-pragma solidity ^0.8.13;
+pragma solidity ^0.8.9;
 
-import "zos-lib/contracts/Initializable.sol";
+
 import "./PoapRoles.sol";
 
 /**

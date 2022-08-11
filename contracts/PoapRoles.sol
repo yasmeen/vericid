@@ -1,6 +1,6 @@
 pragma solidity ^0.8.13;
 
-import "zos-lib/contracts/Initializable.sol";
+
 import "openzeppelin-eth/contracts/access/Roles.sol";
 
 contract PoapRoles is Initializable {

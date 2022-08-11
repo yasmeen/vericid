@@ -1,6 +1,6 @@
-pragma solidity ^0.8.13;
+pragma solidity ^0.8.9;
 
-import "zos-lib/contracts/Initializable.sol";
+
 import "openzeppelin-eth/contracts/token/ERC721/ERC721.sol";
 import "openzeppelin-eth/contracts/token/ERC721/ERC721Enumerable.sol";
 import "openzeppelin-eth/contracts/token/ERC721/IERC721Metadata.sol";
